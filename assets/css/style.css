@@ -119,6 +119,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
+  display:none;
   position: fixed;
   top: 0;
   left: 0;
@@ -149,7 +150,6 @@ h1, h2, h3, h4, h5, h6 {
 * Desktop Navigation 
 */
 .nav-menu {
-  display: none;
   padding: 0;
   display: block;
 }
@@ -1005,6 +1005,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
+  display:none;
   background: #f7f8f9;
   color: #45505b;
   font-size: 14px;
